@@ -70,7 +70,6 @@ Matplotlib/Seaborn - Visualization (optional)
 Google Colab - GPU-accelerated training environment
 
 Key Findings
-(You can fill this in with your actual results)
 The optimal configuration achieved 98.04% validation accuracy:
 
 Architecture: Small [128, 64]
@@ -91,7 +90,8 @@ Repository Structure
 ├── mnist_mlp_optimization.ipynb    # Main Jupyter notebook with all experiments
 ├── mnist_mlp_experiments.xlsx      # Comprehensive results spreadsheet
 ├── README.md                       # This file
-└── visualizations/                 # (Optional) Charts and graphs
+└── visualizations/                 # Charts and graphs
+
 How to Run
 
 Open the notebook in Google Colab or Jupyter
